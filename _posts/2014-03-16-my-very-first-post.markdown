@@ -3,11 +3,6 @@ layout: post
 title: My Very First Post
 ---
 
-{{ page.title}}
-===============
-
-<p class="meta">Mar 16 2014 - San Francisco</p>
-
 Thi is my very first post from my GitHub Page with Jekyll. To make this GitHub Page/Blog, I took 2 or 3 weeeks. It was sooo long. There were many many many things I had to figure out and work out. I will leave notes of it later, before I forget everything ;)
 
 Actually, this post is a test writing by markdown. The fisrt time I heard the name "markdown", I had no idea what it is and I had a misunderstanding with "markup". However, once I learned what it is, I think markdown is a very easy writing way and a language, I'm not sure I can call it a language though.
