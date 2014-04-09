@@ -15,4 +15,7 @@ Third, generally, I guess Yelp reviews are longer than Foursquare ones. To get i
 
 I know it probably doesn't make sense that Foursquare and Yelp are categoraized in the same as review apps. Yelp is a review app. Foursquare is a check-in app. But, they have reached each other and they have almost same features. I think comparison between them is an interesting topic. I will update this post later, maybe.
 
+Updated 1: The reason why I posted this is that Yelp has launched in Japan. 
+[Yelp Official Blog](http://officialblog.yelp.com/2014/04/kimonover-yelp-has-launched-in-japan.html)
+
 Keita
